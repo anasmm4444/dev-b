@@ -1,0 +1,7 @@
+{
+  "name": "Clock",
+  "description": "Honor OS Clock application with stealth dual-layer encrypted communication engine.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
